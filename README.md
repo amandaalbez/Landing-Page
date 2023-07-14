@@ -7,4 +7,5 @@ O "Sushi Time" é um projeto fictício que possui um design gráfico moderno e m
 ![6d38f670-c690-433c-88f6-c67faa899af2](https://github.com/amandaalbez/Landing-Page/assets/104281621/562fdef9-6b2c-448b-a289-ff6829e73f8f)
 
 **<h2>📃Landing Page </h2>**
+![ezgif com-gif-maker](https://github.com/amandaalbez/Landing-Page/assets/104281621/39aa03ed-46f2-475a-b91d-78c7f1078577)
 
